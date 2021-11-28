@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izombieprod
 - 👀 I’m interested in iOS/MAC OS development
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning UIKit and swiftUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me izombieprod@gmail.com
 
