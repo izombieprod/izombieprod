@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS/MAC OS development
 - 🌱 I’m currently learning UIKit and swiftUI
 - 💞️ I’m looking to collaborate on studying projects
-- 📫 How to reach me izombieprod@gmail.com
+- 📫 How to reach me izombieprod@gmail.com , t.me/OoohRoman
 
 <!---
 izombieprod/izombieprod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
