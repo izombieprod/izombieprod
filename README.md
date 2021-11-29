@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @izombieprod
 - 👀 I’m interested in iOS/MAC OS development
 - 🌱 I’m currently learning UIKit and swiftUI
-- 💞️ I’m looking to collaborate on studying projects
+- 🖥 I’m looking to collaborate on studying projects
 - 📫 How to reach me izombieprod@gmail.com , t.me/OoohRoman
 
 <!---
