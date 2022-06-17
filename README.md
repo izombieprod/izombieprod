@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izombieprod
 - 👀 I’m interested in iOS/MAC OS development
-- 🐦 I’m currently working with UIKit and swiftUI
+- 🐦 I’m currently working as iOS developer in 7devs
 - 📫 How to reach me izombieprod@gmail.com , t.me/OoohRoman
 
 <!---
